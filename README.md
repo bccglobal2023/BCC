@@ -5,6 +5,7 @@ Biotic commercial Coin aims to make decentralized finance completely secure and 
 - Name : BCC (Biotic Commercial Coin)
 - Symbol : BCC
 - Decimals : 18
+- Supply : 8,999,998.471 BCC
 - Blockchain : Binance Smart Chain
 - Chain ID : 56
 - Type : BEP20
